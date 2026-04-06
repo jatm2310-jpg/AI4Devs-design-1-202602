@@ -1,7 +1,3 @@
-Aquí tienes un **prompt completo y optimizado con buenas prácticas** para que puedas obtener una respuesta de alta calidad (estructurada, profunda y accionable) para tu ejercicio 👇
-
----
-
 Actúa como un **Senior Product Manager + Software Architect** con experiencia en diseño de sistemas SaaS, HR Tech y plataformas con IA.
 
 Tu objetivo es diseñar desde cero la primera versión de un sistema ATS (Applicant Tracking System) innovador para una startup llamada **LTI**, aplicando pensamiento estratégico, enfoque en producto y buenas prácticas de arquitectura de software.
@@ -136,5 +132,3 @@ El resultado debe parecer un documento real de definición de producto + diseño
 Evita superficialidad. Prioriza claridad, profundidad y coherencia.
 
 ---
-
-Si quieres, puedo ejecutarlo por ti y devolverte directamente todo el diseño completo del ATS de LTI (quedaría como un entregable de alto nivel tipo caso real de empresa).
